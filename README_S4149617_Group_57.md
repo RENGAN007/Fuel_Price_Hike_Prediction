@@ -167,6 +167,12 @@ The NLP analysis helped identify:
 
 # **How to Run the Project**
 
+## **If you are cloning from the github**
+
+```
+git clone https://github.com/RENGAN007/Fuel_Price_Hike_Prediction.git
+```
+
 ## **Step 1 — Set Up Virtual Environment**
 
 ### **Windows**
