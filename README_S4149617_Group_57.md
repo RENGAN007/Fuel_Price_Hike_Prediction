@@ -287,6 +287,6 @@ Additionally, YouTube commenters may not fully represent the broader public opin
 
 Postgraduate Group — COSC 2671
 
-* Member 1 — Data Collection, Network Analysis, Community Detection, Visualisations
-* Member 2 — NLP Analysis, Sentiment Analysis, Topic Modelling, Reporting
-* Member 3 — Preprocessing, Integration, Report Writing, Presentation
+* Srirengan Ganesa Rengan — Data Collection, Network Analysis, Community Detection, Visualisations
+* Mrigank Rahul Dube — NLP Analysis, Sentiment Analysis, Topic Modelling, Reporting
+* Kiran Kumar Kadamedi — Preprocessing, Integration, Report Writing, Presentation
