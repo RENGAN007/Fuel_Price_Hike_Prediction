@@ -1,0 +1,14 @@
+﻿pandas
+numpy
+google-api-python-client
+google-auth
+google-auth-httplib2
+python-dotenv
+networkx
+python-louvain 
+nltk
+vaderSentiment
+scikit-learn
+wordcloud
+matplotlib
+seaborn
